@@ -1,6 +1,6 @@
 A script to check a domain's IP address
 
-'''
+```
  bash domain2prefix.sh https://ifconfig.xyz/sdfdfj
  104.31.74.138
  104.31.75.138
